@@ -13,7 +13,7 @@ curl https://api.github.com/octocat
 
     $ npm i --save octozen
 
-Requires *Node.js* **>=4.8.1**
+Requires *Node.js* **>=4.0.0**
 
 ## Usage
 
