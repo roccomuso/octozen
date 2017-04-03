@@ -13,12 +13,12 @@ curl https://api.github.com/octocat
 
     $ npm i --save octozen
 
+Requires *Node.js* **>=4.8.1**
+
 ## Usage
 
 ```javascript
 const octozen = require('octozen')
 
-octozen(function(zen){
-  console.log(zen)
-})
+console.log(octozen())
 ```
