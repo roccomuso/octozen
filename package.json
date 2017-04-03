@@ -1,0 +1,29 @@
+{
+  "name": "octozen",
+  "version": "1.0.0",
+  "description": "Your little dose of octocat zen in Node.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roccomuso/octozen.git"
+  },
+  "keywords": [
+    "octozen",
+    "zen",
+    "github",
+    "statements",
+    "octocat"
+  ],
+  "author": "Rocco Musolino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roccomuso/octozen/issues"
+  },
+  "homepage": "https://github.com/roccomuso/octozen#readme"
+}
